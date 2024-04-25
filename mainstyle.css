@@ -1,0 +1,50 @@
+/* COMENTS 
+it changes the size of the page when changing from pages.
+*/
+ul {
+    list-style: none
+}
+
+h1 {
+    text-align: center;
+    color: rgb(79, 53, 226);
+    width:fit-content;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#nave {
+    border-style: solid;
+    box-sizing: border-box;
+    width: 100px;
+    display: inline-block;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+ul.cima {
+    vertical-align: middle;
+}
+
+header {
+    background-color:rgb(219, 217, 248) ;
+    display: inline-block;
+    width:100% ;
+    border-color: azure;
+    color: azure;
+}
+
+.topo {
+    width:fit-content;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 50%;
+    margin-top: 15px;
+    
+}
+
+ul.base {
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 35%;
+}
